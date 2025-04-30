@@ -1,0 +1,6 @@
+702  touch dementor-invasion.c
+  703  git add dementor-invasion.c
+  704  git commit -m "dementors"; git push origin main
+  705  git status
+  706  git reset --soft HEAD~1
+  707  git push --force
